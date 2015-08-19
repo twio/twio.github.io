@@ -248,3 +248,56 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Pink */
+.theme-base-0g .sidebar {
+  background-color: #DB7093;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #DB7093;
+}
+
+/* Red */
+.theme-base-0h .sidebar {
+  background-color: #B22222;
+}
+.theme-base-0h .content a,
+.theme-base-0h .related-posts li a:hover {
+  color: #B22222;
+}
+
+/* Indian Red */
+.theme-base-0i .sidebar {
+  background-color: #CD5C5C;
+}
+.theme-base-0i .content a,
+.theme-base-0i .related-posts li a:hover {
+  color: #CD5C5C;
+}
+
+/* Indian Red */
+.theme-base-0j .sidebar {
+  background-color: #FF69B4;
+}
+.theme-base-0j .content a,
+.theme-base-0j .related-posts li a:hover {
+  color: #FF69B4;
+}
+
+/* Indian Red */
+.theme-base-0k .sidebar {
+  background-color: #778899;
+}
+.theme-base-0k .content a,
+.theme-base-0k .related-posts li a:hover {
+  color: #778899;
+}
+/* Indian Red */
+.theme-base-0l .sidebar {
+  background-color: #FD7F43;
+}
+.theme-base-0l .content a,
+.theme-base-0l .related-posts li a:hover {
+  color: #FD7F43;
+}
