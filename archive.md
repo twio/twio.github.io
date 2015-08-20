@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 ---
-
+---
 ## Blog Posts
 
 {% for post in site.posts %}
