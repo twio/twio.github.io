@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Twio
 tagline:          'An Indian Safari'
-description:      'A Ruby on Rails/Emberjs related blog about design and development. '
+description:      'A design and development related blog with the main focus on Ruby, Rails and Emberjs. '
 url:              http://www.twio.github.io
 baseurl:          /
 
