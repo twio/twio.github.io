@@ -8,7 +8,7 @@ title: I love Ruby Gems
 1. Bootstrap-Rails
 2. Pry
 3. Sequel
-4. Devise (So I don't have to think about edge-case for user-authentication)
+4. Devise (So I don't have to think about any edge-case for user-authentication)
 5. Simpleform
 6. Thin (I just use it ... I don't know why)
 7. Rspec (I wish ... ;) )
